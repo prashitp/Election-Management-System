@@ -1,4 +1,4 @@
-# knowyourvote
+# Know Your Vote
 
 * Election Management System
 * This project was developed as a part of course work System Design Practice for Dharmsinh Desai University
